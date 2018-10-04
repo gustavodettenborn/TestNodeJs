@@ -1,0 +1,4 @@
+--require test/integration/helpers.js
+--require spec
+--compilers js:babel-core/resgister
+--slow 5000

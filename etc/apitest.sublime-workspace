@@ -1,0 +1,1944 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"xml",
+				"xml_value"
+			],
+			[
+				"xm",
+				"xml_value"
+			],
+			[
+				"CREATE",
+				"createds"
+			],
+			[
+				"create",
+				"createds"
+			],
+			[
+				"migrate_configs_",
+				"migrate_configs_job_position"
+			],
+			[
+				"star",
+				"start_date"
+			],
+			[
+				"get_",
+				"get_or_create"
+			],
+			[
+				"Carr",
+				"CarrerConfigModel"
+			],
+			[
+				"get",
+				"get_model"
+			],
+			[
+				"event",
+				"events"
+			],
+			[
+				"pre",
+				"prevent_set_action"
+			],
+			[
+				"from",
+				"from_event"
+			],
+			[
+				"prev",
+				"prevent_set_action"
+			],
+			[
+				"event_",
+				"event_to_check"
+			],
+			[
+				"even",
+				"event_name"
+			],
+			[
+				"django",
+				"django_field_name"
+			],
+			[
+				"fiel",
+				"field_django"
+			],
+			[
+				"process",
+				"process_action"
+			],
+			[
+				"eve",
+				"events"
+			],
+			[
+				"exce",
+				"exception"
+			],
+			[
+				"cac",
+				"cacerts_file_name"
+			],
+			[
+				"p",
+				"pkey_file_name"
+			],
+			[
+				"ca",
+				"cacerts_file_name"
+			],
+			[
+				"x",
+				"x509_file_name"
+			],
+			[
+				"che",
+				"checks"
+			],
+			[
+				"fil",
+				"file_write"
+			],
+			[
+				"quer",
+				"query_event"
+			],
+			[
+				"ESAC",
+				"ESCAPE_COUNT"
+			],
+			[
+				"ESCA",
+				"ESCAPE_COUNT"
+			],
+			[
+				"COUNT",
+				"count"
+			],
+			[
+				"act",
+				"action"
+			],
+			[
+				"ee",
+				"events"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"vali",
+				"validation_xml_schema"
+			],
+			[
+				"ch",
+				"checks"
+			],
+			[
+				"S",
+				"S1040Extractor"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"audit",
+				"audit_fields"
+			],
+			[
+				"evet",
+				"event"
+			],
+			[
+				"_di",
+				"_dict_event_to_check"
+			],
+			[
+				"evento",
+				"event_to_check"
+			],
+			[
+				"oid",
+				"oid_checked"
+			],
+			[
+				"extra",
+				"extractors"
+			],
+			[
+				"certi",
+				"certificate_ca"
+			],
+			[
+				"cert",
+				"certificate_path"
+			],
+			[
+				"certifica",
+				"certificate_passwd"
+			],
+			[
+				"b",
+				"blank"
+			],
+			[
+				"re",
+				"register"
+			],
+			[
+				"bat",
+				"BatchEvent"
+			],
+			[
+				"ba",
+				"batch"
+			],
+			[
+				"xlm",
+				"xml_value"
+			],
+			[
+				"excep",
+				"exception"
+			],
+			[
+				"fila",
+				"file_path"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"mana",
+				"managers"
+			],
+			[
+				"crea",
+				"create_batches"
+			],
+			[
+				"esoci",
+				"esocial"
+			],
+			[
+				"clear",
+				"clear_local"
+			],
+			[
+				"gene",
+				"generate_xml"
+			],
+			[
+				"Ba",
+				"BatchEvent"
+			],
+			[
+				"regis",
+				"register_extractor"
+			],
+			[
+				"man",
+				"managers"
+			],
+			[
+				"class",
+				"classmethod"
+			],
+			[
+				"CAR",
+				"career"
+			],
+			[
+				"Publica",
+				"Publication"
+			],
+			[
+				"ad",
+				"administrativeunit"
+			],
+			[
+				"Add",
+				"address"
+			],
+			[
+				"data",
+				"data_fim"
+			],
+			[
+				"start",
+				"start_validity"
+			],
+			[
+				"niv",
+				"nivel_escolaridade"
+			],
+			[
+				"res_",
+				"res_a1"
+			],
+			[
+				"res",
+				"res_astable"
+			],
+			[
+				"ed",
+				"educational_level"
+			],
+			[
+				"carga",
+				"carga_horaria"
+			],
+			[
+				"datetime",
+				"datetime"
+			],
+			[
+				"design",
+				"designates_exercise"
+			],
+			[
+				"end",
+				"end_validity"
+			],
+			[
+				"admini",
+				"administrative"
+			],
+			[
+				"job_",
+				"job_position"
+			],
+			[
+				"job",
+				"job_position"
+			],
+			[
+				"not_",
+				"events_not_exclude"
+			],
+			[
+				"regi",
+				"register_extractor"
+			],
+			[
+				"esoc",
+				"esocial"
+			],
+			[
+				"fieldn",
+				"field_mandatory_check_father"
+			],
+			[
+				"gen",
+				"generate_xml_with_value"
+			],
+			[
+				"inst",
+				"inst_outside"
+			],
+			[
+				"erros",
+				"errors"
+			],
+			[
+				"pessoa",
+				"pessoa_juridica"
+			],
+			[
+				"emplo",
+				"employeer"
+			],
+			[
+				"uni",
+				"unique"
+			],
+			[
+				"Pesso",
+				"PessoaFisica"
+			],
+			[
+				"pesso",
+				"PessoaJuridica"
+			],
+			[
+				"software",
+				"software_house"
+			],
+			[
+				"sof",
+				"software_house"
+			],
+			[
+				"nose",
+				"nose_args"
+			],
+			[
+				"js",
+				"json_field_decimal_length"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"j",
+				"json_model"
+			],
+			[
+				"forma",
+				"format_descriptor"
+			],
+			[
+				"fie",
+				"field_name"
+			],
+			[
+				"tag",
+				"tag_name"
+			],
+			[
+				"father",
+				"json_field_father"
+			],
+			[
+				"file",
+				"field_mandatory"
+			],
+			[
+				"jsO",
+				"json_field"
+			],
+			[
+				"cas",
+				"classmethod"
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"ele",
+				"element"
+			],
+			[
+				"file_pah",
+				"file_path_xml_schema"
+			],
+			[
+				"xml_s",
+				"xml_schema_path"
+			],
+			[
+				"_xm",
+				"_xml_schema"
+			],
+			[
+				"_ch",
+				"_xml_schema_path"
+			],
+			[
+				"_xh",
+				"_xml_schema_name"
+			],
+			[
+				"file_pa",
+				"file_path_signed"
+			],
+			[
+				"load",
+				"load_data_from_file"
+			],
+			[
+				"to",
+				"to_string"
+			],
+			[
+				"manda",
+				"mandatory"
+			],
+			[
+				"Eleme",
+				"ElementTree"
+			],
+			[
+				"clas",
+				"classmethod"
+			],
+			[
+				"Xml",
+				"XmlToSendTemplate"
+			],
+			[
+				"str",
+				"structure"
+			],
+			[
+				"try",
+				"try\tTry/Except"
+			],
+			[
+				"seque",
+				"sequential"
+			],
+			[
+				"seu",
+				"sequential"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"verbo",
+				"verbose_name"
+			],
+			[
+				"add",
+				"address"
+			],
+			[
+				"integra",
+				"integration_agent"
+			],
+			[
+				"protect",
+				"PROTECT"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/home/gustavodettenborn/developer/node/apitest/package.json",
+			"settings":
+			{
+				"buffer_size": 203,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gustavodettenborn/developer/node/apitest/.babelrc",
+			"settings":
+			{
+				"buffer_size": 29,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 400.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"list p",
+				"Package Control: List Packages"
+			],
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"tasks",
+				"Tasks: New document"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insa",
+				"Package Control: Install Package"
+			],
+			[
+				"syn py",
+				"Set Syntax: Python"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 342.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"sublime.log_input(True)",
+			"sublime.log_commands(True)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())",
+			"checkout sublime-text-3",
+			"reload",
+			"import pylint",
+			"os.getenv('PYTHONPATH')",
+			"import os",
+			"os.getenv('PYTHONPATH')",
+			"import pylint",
+			"import os",
+			"import pylint",
+			"os.getenv('PYTHONPATH')",
+			"import os",
+			"os.getenv('PYTHONPATH')",
+			"print os.getenv('PYTHONPATH')",
+			"os.getenv('PYTHONPATH')",
+			"import os",
+			"echo $PYTHONPATH",
+			"import pylint",
+			"python",
+			"import pylint",
+			"os.getenv('PYTHONPATH')",
+			"os.env",
+			"os.getent()",
+			"os.getcwd()",
+			"import os",
+			"pwd",
+			"import",
+			"python",
+			"show_side_bar",
+			"side_bar",
+			"toggle_side_bar",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/gustavodettenborn/developer/node/apitest"
+	],
+	"file_history":
+	[
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/file_support.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/extractors/actions.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/tests/tests_actions.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/xml.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_base.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/tests/tests_builder.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/extractors/s1040.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/extractors/s2200.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/extractors/utils.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/api/manager.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/utils.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/extractors/s1000.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/security/xml/manager.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/builder.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/static/js/toolkit/application.js",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/models.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/app/.env",
+		"/home/gustavodettenborn/developer/node/apitest/package.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1000.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0055_datamigration_substitution_20171201_1646.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0054_auto_20171201_1427.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0057_auto_20171108_1703.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/migrations/0003_auto_20180918_1300.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/static/manager/BatchEventGrid.js",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/static/manager/BatchEventRestful.js",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0068_datamigration_config.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/static/raw/Restful.js",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/etc/uwsgi.yml",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/static/person/Grid.js",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/apps.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/const.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/script_first_run.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/security/__init__.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/management/commands/esocial_initial_loads.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/env/lib/python2.7/site-packages/django/db/models/base.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/standard/models.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/app/settings.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/etc/upstream.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/etc/upstream.conf",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/gfp/migrations/0057_new_config_event.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/parametros.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/gfp/models.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/gfp/migrations/0055_datamigration_event.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0065_auto_20180820_2002.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0064_auto_20180604_1514.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/gfp/migrations/0054_auto_20180917_1501.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/gfp/migrations/0053_auto_20180917_1501.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/gfp/migrations/0056_remove_evento_incide_sobre_sera_o_ultimo.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0064_auto_20180604_1514_primeiro.py.bk",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/models.py.orig",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/static/js/core/RestfulGrid.js",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/static/employee/workplace/Grid.js",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1005.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0066_auto_20180830_1454.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/utils.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0065_auto_20180913_1442.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/gfp/migrations/0052_auto_20180612_1403.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/extractors/s1010.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/extractors/s1005.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1010.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/tests/suppliers.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/tests/tests_file_support.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s2200.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1070.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1060.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1050.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1040.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1035.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1030.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1020.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1010.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1005.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json/s1000.json",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/var/cache/esocial/xml/2017/1/ID1017860780000002018091218492532376/ID1017860780000002018091218492532376.1.c.xml",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/var/cache/esocial/xml/2017/1/ID1017860780000002018091218492532376/ID1017860780000002018091218492532376.2.c.xml",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/signals/extractors.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/var/cache/esocial/xml/2017/1/ID1017860780000002018091120231499494/ID1017860780000002018091120231499494.4.s.xml",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/builderrun.prof.log",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/replace_pyprof2calltree.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/contrib/decorator.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/gfp/profile.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/migrations/0003_auto_20180910_1914.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1020.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1030.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1035.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1040.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1050.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1060.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1070.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1200.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1202.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1207.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1210.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1270.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1280.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1295.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1298.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1299.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1300.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2100.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2190.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2200.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2205.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2206.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2210.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2220.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2230.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2240.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2241.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2250.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2260.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2298.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2299.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2300.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2306.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2399.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S2400.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S3000.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S5001.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S5002.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S5011.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S5012.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/afastamento/models.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/compose_portainer.yml",
+		"/home/gustavodettenborn/developer/containers/athenas/images/athenas/busybox.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/migrations/0003_auto_20180906_1445.py",
+		"/home/gustavodettenborn/developer/containers/athenas2/compose.yml"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 118.0,
+		"where_history":
+		[
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh, -*.xsd, -*.csv, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol, -*.xsd, -*.csv, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.csv, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/data/models_generated/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*, -*/models_generetade/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/schema, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*, -*/migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*/south_migrations/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -?(south_migrations)",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -?(migrations)",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*[migrations], -*[south_migrations]",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js, -*[migrations]",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh, -*.json, -*.js",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*.js",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*/migrations",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*migrations",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*migrations*",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json, -*migrations",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/schema",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.json",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/static",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/env/lib/python2.7/site-packages/mixer",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/static/employee/specialized",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/static/employee",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/static",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/static/employee",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, *.js",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/static/employee",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/judicial/migrations",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.xsd, -*.csv, -*.xml, -*.json, -docs/, -data/, -migrations/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml, -*.json, -docs/, -data/, -migrations/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/gfp, -*.xsd, -*.csv, -*.xml, -*.json, -docs/, -data/, -migrations/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.xsd, -*.csv, -*.xml, -*.json, -docs/, -data/, -migrations/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml, -*.json, -docs/, -data/, -migrations/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register, -*.xsd, -*.csv, -*.xml, -*.json, -docs/, -data/, -migrations/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root, -*.xsd, -*.csv, -*.xml, -*.json, -docs/, -data/, -migrations/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml, -*.json, -docs/, -data/, -migrations/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml, -*.json, -docs/, -data/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml, -*.json, -/docs, -/data",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml, -*.json, -/docs, -/data/models_generated",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml, -*.json, -/docs, -/models_generated",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml, -*.json, -/docs",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml, -*.json",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv, -*.xml",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd, -*.csv",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial, -*.xsd",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial; -*.xsd",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/env/lib/python2.7/site-packages/mixer",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/register_models",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/judicial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/register_models",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/register_models",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/register_models",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/data/json",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"codcateg",
+			"profile",
+			".events",
+			".batches",
+			"self.clear_environment",
+			"clear_environment",
+			"get_icons",
+			"icons",
+			"status",
+			"sta",
+			"print",
+			"prevent_set_action",
+			"update_dependents",
+			"set_validation_xml_schema",
+			"prevent_loop",
+			"prevent_set_action",
+			".bug",
+			"kwargs.get('validation_xml_schema', False)",
+			"validation_xml_schema=False",
+			"validation_xml_schema=True",
+			"validation_xml_schema=",
+			"validation_xml_schema = ",
+			"set_validation_xml_schema",
+			"prevent_loop",
+			"set_validation_xml_schema",
+			"createItem",
+			"_write_xml_event_at_batch_directory",
+			"log.debug",
+			"__init_",
+			".update_status",
+			"Aguardando empacotamento",
+			"process_status",
+			"status",
+			"AUDITABLE",
+			"AUDITABLE = {}",
+			"./manage.py",
+			"[ ]  ",
+			"[X]  ",
+			"athenas_predefault",
+			"athenas_predefault1",
+			"athenas_predefault",
+			"print(self._acronym())",
+			"print",
+			"AUDITABLE",
+			"exclude =",
+			"exclude: ",
+			"exclude",
+			"auditable",
+			"action = ",
+			"quarter",
+			"career",
+			"ev.",
+			"Sum",
+			"Carreira",
+			"datetime",
+			"0056_remove_evento_incide_sobre_sera_o_ultimo",
+			"ConfigCareer",
+			"sum",
+			"separate_for_info_event",
+			"separate_for_competencies",
+			".",
+			"gfp.",
+			"[ ]  ",
+			"generic",
+			"gener",
+			"athenas_predefault",
+			"  # athenas_esocial_development_3",
+			"athenas_esocial_development_3",
+			"prevent_set_action",
+			"_process_diff",
+			"_initial_fields_copy",
+			"_set_value_at_event_to_check",
+			"getConfigActionsItems",
+			"_configActionsItems",
+			"add",
+			"'add'",
+			"hideItemsToolbar",
+			"((",
+			"prevent_set_action",
+			"set_action",
+			"log.debug('====> save %s pk(%s)' % (self.__class__, self.pk))",
+			"prevent_set_action",
+			"prevent",
+			"not from_save",
+			"from_save",
+			"from_event",
+			"process",
+			"UPDATE DONE",
+			"prevent_set_action",
+			"generate_xml",
+			"prevent_loop",
+			".save",
+			"não foi possível fazer update pois o event ainda está em processo de criação",
+			".update",
+			"print(",
+			"_process_diff",
+			"action =",
+			"log.debug('====> save %s' % self.__class__)",
+			"print('====> save %s' % self.__class__)",
+			"print('save %s' % self.__class__)",
+			"print('save %s' % __class__)",
+			"__class__",
+			"update_status",
+			"prohibited to prevent data",
+			"prohibited to prevent data loss due to unsaved related object",
+			"action",
+			"conten",
+			".pop",
+			"deepcopy",
+			"copy",
+			"remove",
+			"athenas_esocial_development_2",
+			"legalprocess",
+			"configjobposition",
+			"cumulative",
+			"print(event_to_check.__dict__.get('_event_ptr_cache'))",
+			"[ ]  ",
+			"[X]  ",
+			"educational_institution_id",
+			"./manage.py",
+			"[ ]  ",
+			"athenas_esocial_development_1",
+			"event_ptr",
+			"event_ptr_id",
+			"ID1017860780000002018091313523539424",
+			"identifier",
+			"event_ptr",
+			"Id"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/env",
+			"models.Model",
+			"(Register):",
+			"(Event)",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root",
+			"/home/gustavodettenborn/developer/containers/athenas2/app-vol/env",
+			"(Register):",
+			"events_not_delete",
+			"schemaLocation=\"/app/root/esocial/data/schema/xmldsig-core-schema.xsd\"",
+			"register_instance",
+			"# identifier = models.CharField(max_length=36)",
+			"identifier",
+			"employer_nr_insc",
+			", self).fim_valid(",
+			", self).ini_valid(",
+			"from esocial.models_base import Register, Event, IdeEmployer",
+			"Register(Register, Event):",
+			"self.fimValid(instance_extractor_class, instance_outside)",
+			"self.iniValid(instance_extractor_class, instance_outside)",
+			"    def iniValid(self, instance_extractor_class, instance_outside):\nself.iniValid(self, instance_extractor_class, instance_outside)\n",
+			"    def iniValid(self, instance_extractor_class, instance_outside):\n        return self.iniValid(instance_outside)\n",
+			"",
+			"esocial.managers.xml",
+			"extractor_class_created_list",
+			"instance_extractor_class",
+			"esocial.managers.extractors",
+			"extractors.suppliers",
+			"extractor",
+			"models_register",
+			"instance_supplied_class",
+			"create_instance_supplied_class",
+			"from standard.models import Choice\nfrom esocial.const import ACTION",
+			"from standard.models import Choice\nfrom esocial.const import ACTION\n",
+			"esocial.event",
+			"rh.employee.workplace.managerbyemployeechange",
+			"managerbyemployeechange",
+			"rh.parameters.disease",
+			"mayChangeTabNaturalPersonData",
+			"'",
+			"commission",
+			"||\n",
+			"');\n",
+			"ownerCt",
+			"setTabPanel",
+			"employeeRegistry",
+			"    this.fields = function(cfg){\n        return [];\n    };",
+			"",
+			"SearchPanel",
+			"\n            ",
+			"",
+			"|",
+			"_work_assignment_return_from_departured",
+			"07",
+			"owner_locations_can_be_substituted",
+			"owner_locations_can_substituted",
+			"numero = None",
+			"estado_expedicao=",
+			"data_validade=",
+			"data_expedicao=",
+			"numero=",
+			"tipo_documento=",
+			"replacements",
+			"cls",
+			"))\n",
+			"',",
+			"",
+			"characteristicworkplace",
+			",",
+			"_encoding = ENCODING",
+			"owner_locations_can_substitute",
+			".owner_locations_effective_exercise",
+			"',\n",
+			"afastamento_models.BaseLicencaAfastamento.objects.get(pk=35573)._instancia_modelo().save()",
+			"DadosUnidade.get_codigo(UnidadeAdministrativa.objects.get(pessoa_juridica__cnpj='01786078000146', nome__icontains='PROCURADORIA GERAL DE JUSTI'))",
+			"='',",
+			": {'label': '",
+			"='',",
+			": {'label': '",
+			"='',",
+			": {'label': '",
+			": {'label': '\n",
+			": {'label': '",
+			"='',",
+			"',           'valor': '',    'size': 100,    'obrigatorio': '1*',   'tipo': 'alfa'},\n",
+			"',           'valor': '',    'size': 100,    'obrigatorio': '1*',   'tipo': 'alfa'},",
+			": {'label': '",
+			": {'label': '\n",
+			"\n: {'label': '",
+			": {'label': '",
+			"0-9999",
+			"1-9999",
+			"ideEmpregador =",
+			"",
+			"\"1-9999\",",
+			"\"0-9999\",",
+			"\"0-9999\"",
+			",",
+			"",
+			"',",
+			"'",
+			"",
+			"'",
+			"'descr': '     ",
+			"'descr': '\n        ",
+			"},\n        ",
+			"', '",
+			", '",
+			"'date_end': ''",
+			"'date_end'",
+			"'date_start': '',",
+			"",
+			"',",
+			"",
+			" 'date_end': ",
+			"'",
+			"update_workplace_responsible_by_provision",
+			"",
+			"DIRECTORY_DATA_JSON",
+			"DIRECTORY_DATA_CSV",
+			" = models.CharField(max_length=100, null=True, blank=True)\n",
+			"models.CharField(max_length=100, null=True, blank=True)\n",
+			"    },\n",
+			"},\n",
+			",\n",
+			"",
+			")\n",
+			"\n            {\n                \"event\": \"S-2300\",\n                \"obligation\": \"OC\",\n                \"or\": true\n            },"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/home/gustavodettenborn/developer/node/apitest/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 203,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								203,
+								203
+							]
+						],
+						"settings":
+						{
+							"SL.87.region_keys":
+							[
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/gustavodettenborn/developer/node/apitest/.babelrc",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 29,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29,
+								29
+							]
+						],
+						"settings":
+						{
+							"SL.90.region_keys":
+							[
+								"sublime_linter.protected_regions"
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Babel).sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 146.0
+	},
+	"output.find_results":
+	{
+		"height": 116.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 244.0
+	},
+	"pinned_build_system": "",
+	"project": "apitest.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"esocial/migrations/0003",
+				"esocial/migrations/0003_auto_20180918_1300.py"
+			],
+			[
+				"wsgi.ym",
+				"athenas2/app-vol/etc/uwsgi.yml"
+			],
+			[
+				"managers/utils",
+				"athenas2/app-vol/root/esocial/managers/utils.py"
+			],
+			[
+				"app/sett",
+				"athenas2/app-vol/root/app/settings.py"
+			],
+			[
+				"script",
+				"athenas2/app-vol/root/esocial/script_first_run.py"
+			],
+			[
+				"ups",
+				"athenas2/app-vol/etc/upstream.conf"
+			],
+			[
+				"upstr",
+				"athenas2/app-vol/etc/upstream.json"
+			],
+			[
+				"extractors/utis",
+				"athenas2/app-vol/root/esocial/managers/extractors/utils.py"
+			],
+			[
+				"apps",
+				"esocial/apps.py"
+			],
+			[
+				"const",
+				"esocial/const.py"
+			],
+			[
+				"security/__ini",
+				"esocial/security/__init__.py"
+			],
+			[
+				"esocial",
+				"esocial/management/commands/esocial_initial_loads.py"
+			],
+			[
+				"scrip",
+				"esocial/script_first_run.py"
+			],
+			[
+				"models_base",
+				"athenas2/app-vol/root/esocial/models_base.py"
+			],
+			[
+				"rh/para",
+				"rh/parametros.py"
+			],
+			[
+				"rh/models",
+				"athenas2/app-vol/root/rh/models.py"
+			],
+			[
+				"/restulgrid",
+				"athenas2/app-vol/root/static/js/core/RestfulGrid.js"
+			],
+			[
+				"setting",
+				"athenas2/app-vol/root/app/settings.py"
+			],
+			[
+				"rh/models.py",
+				"athenas2/app-vol/root/rh/models.py"
+			],
+			[
+				"file",
+				"esocial/managers/file_support.py"
+			],
+			[
+				"managers/xml",
+				"athenas2/app-vol/root/esocial/managers/xml.py"
+			],
+			[
+				"suppli",
+				"esocial/tests/suppliers.py"
+			],
+			[
+				"file_s",
+				"esocial/managers/file_support.py"
+			],
+			[
+				"esocial/models",
+				"esocial/models.py"
+			],
+			[
+				"esocial/api/ma",
+				"esocial/api/manager.py"
+			],
+			[
+				"esocial/migrations/",
+				"esocial/migrations/0003_auto_20180910_1914.py"
+			],
+			[
+				"esocial/const",
+				"athenas2/app-vol/root/esocial/const.py"
+			],
+			[
+				"app/setting",
+				"athenas2/app-vol/root/app/settings.py"
+			],
+			[
+				"esocial/security",
+				"esocial/security/__init__.py"
+			],
+			[
+				"gfp/profi",
+				"rh/gfp/profile.py"
+			],
+			[
+				"contrib/decorator",
+				"athenas2/app-vol/root/contrib/decorator.py"
+			],
+			[
+				"afastamento/models",
+				"rh/afastamento/models.py"
+			],
+			[
+				"afastamento/modes",
+				"rh/afastamento/models.py"
+			],
+			[
+				"compose",
+				"athenas2/compose_portainer.yml"
+			],
+			[
+				"api/mana",
+				"esocial/api/manager.py"
+			],
+			[
+				"compos",
+				"athenas2/compose.yml"
+			],
+			[
+				"tests_bui",
+				"esocial/tests/tests_builder.py"
+			],
+			[
+				"esocial/api",
+				"esocial/api/manager.py"
+			],
+			[
+				"upstra",
+				"app-vol/etc/upstream.json"
+			],
+			[
+				"gfp/models",
+				"rh/gfp/models.py"
+			],
+			[
+				"esocial/fixtures",
+				"esocial/fixtures/choices.json"
+			],
+			[
+				"extractors",
+				"esocial/managers/extractors/s1040.py"
+			],
+			[
+				"extractors/utils",
+				"esocial/managers/extractors/utils.py"
+			],
+			[
+				"esocial/app",
+				"esocial/apps.py"
+			],
+			[
+				"application.js",
+				"root/static/js/toolkit/application.js"
+			],
+			[
+				"app/se",
+				"root/app/settings.py"
+			],
+			[
+				"compo",
+				"athenas2/compose.yml"
+			],
+			[
+				".xml",
+				"root/build.xml"
+			],
+			[
+				"app/settin",
+				"root/app/settings.py"
+			],
+			[
+				"build",
+				"athenas2/build-images.sh"
+			],
+			[
+				"rh/fixtures/c",
+				"rh/fixtures/choices.json"
+			],
+			[
+				"up",
+				"athenas2/app-vol/etc/upstream.conf"
+			],
+			[
+				"rh/fix",
+				"rh/fixtures/choices.json"
+			],
+			[
+				"ged/models",
+				"root/ged/models.py"
+			],
+			[
+				"file_su",
+				"esocial/managers/file_support.py"
+			],
+			[
+				"esocial_init",
+				"esocial/management/commands/esocial_initial_loads.py"
+			],
+			[
+				"su",
+				"esocial/tests/suppliers.py"
+			],
+			[
+				"requi",
+				"root/requirements.txt"
+			],
+			[
+				"rh/mode",
+				"rh/models.py"
+			],
+			[
+				"bin/a",
+				"athenas2/app-vol/env/bin/activate"
+			],
+			[
+				"bin/acti",
+				"athenas2/app-vol/env/bin/activate"
+			],
+			[
+				"edocs/protocolo/models",
+				"root/edocs/protocolo/models.py"
+			],
+			[
+				"upstrea",
+				"athenas2/app-vol/etc/upstream.json"
+			],
+			[
+				"mpto/base",
+				"rh/gfp/calcs/mpto/base.py"
+			],
+			[
+				"esocial/apps",
+				"esocial/apps.py"
+			],
+			[
+				"esocial/apss",
+				"esocial/xml/99/batch-process.xml"
+			],
+			[
+				"rh/fixtures/choi",
+				"rh/fixtures/choices.json"
+			],
+			[
+				"modelsregister1005",
+				"esocial/models_register/S1005.py"
+			],
+			[
+				"extractors/1060",
+				"esocial/managers/extractors/s1060.py"
+			],
+			[
+				"extractors/1000",
+				"esocial/managers/extractors/s1000.py"
+			],
+			[
+				"extractors1005",
+				"esocial/managers/extractors/s1005.py"
+			],
+			[
+				"esocial/buil",
+				"esocial/managers/builder.py"
+			],
+			[
+				"diarias/models",
+				"root/adm/diarias/models.py"
+			],
+			[
+				"edocs/models",
+				"root/edocs/protocolo/models.py"
+			],
+			[
+				"extractors/util",
+				"esocial/managers/extractors/utils.py"
+			],
+			[
+				"models_register",
+				"esocial/models_register/S1000.py"
+			],
+			[
+				"supp",
+				"esocial/tests/suppliers.py"
+			],
+			[
+				"builder",
+				"esocial/managers/builder.py"
+			],
+			[
+				"task/arqui",
+				"rh/task/arquimedes.py"
+			],
+			[
+				"evtinfo",
+				"esocial/data/schema/evtInfoEmpregador.xsd"
+			],
+			[
+				"models_",
+				"esocial/models_base.py"
+			],
+			[
+				"rh/parame",
+				"rh/parametros.py"
+			],
+			[
+				"suppl",
+				"esocial/tests/suppliers.py"
+			],
+			[
+				"supli",
+				"esocial/tests/suppliers.py"
+			],
+			[
+				"rh/taskas",
+				"rh/task/arquimedes.py"
+			],
+			[
+				"rh/tasks",
+				"rh/gfp/tasks.py"
+			],
+			[
+				"models_register/1030",
+				"esocial/models_register/S1030.py"
+			],
+			[
+				"rh/app",
+				"rh/apps.py"
+			],
+			[
+				"gfp/remunaca",
+				"rh/gfp/calcs/mpto/remuneracao.py"
+			],
+			[
+				"rh/chois",
+				"rh/fixtures/choices.json"
+			],
+			[
+				"choices",
+				"esocial/fixtures/choices.json"
+			],
+			[
+				"rh/cons",
+				"rh/const.py"
+			],
+			[
+				"",
+				"rh/gfp/models.py"
+			],
+			[
+				"rh/apps",
+				"rh/apps.py"
+			],
+			[
+				"rh/fixtures/choices",
+				"rh/fixtures/choices.json"
+			],
+			[
+				"tabfuncao",
+				"esocial/data/schema/evtTabFuncao.xsd"
+			],
+			[
+				"esocial/file_su",
+				"esocial/managers/file_support.py"
+			],
+			[
+				"esocial/const.p",
+				"esocial/const.py"
+			],
+			[
+				"esocial/fix",
+				"esocial/fixtures/choices.json"
+			],
+			[
+				"models_register/",
+				"esocial/models_register/S1020.py"
+			],
+			[
+				"models_regis",
+				"app-vol/root/esocial/models_register/S1000.py"
+			],
+			[
+				"shel",
+				"app-vol/root/shell_athenas_load.py"
+			],
+			[
+				"gfp/mode",
+				"app-vol/root/rh/gfp/models.py"
+			],
+			[
+				"midd",
+				"app-vol/root/contrib/middleware.py"
+			],
+			[
+				"standard/fixtures/",
+				"app-vol/root/standard/fixtures/initialdb_0001_choices.json"
+			],
+			[
+				"standard/fixtures/ch",
+				"app-vol/root/standard/fixtures/choices.json"
+			],
+			[
+				"esocial/choi",
+				"app-vol/root/esocial/fixtures/choices.json"
+			],
+			[
+				"gfp.js",
+				"app-vol/root/rh/static/js/gfp.js"
+			],
+			[
+				"esocial/choices",
+				"app-vol/root/esocial/fixtures/choices.json"
+			],
+			[
+				"tables",
+				"app-vol/root/esocial/tables.py"
+			],
+			[
+				"esocial/utils",
+				"app-vol/root/esocial/managers/utils.py"
+			],
+			[
+				"standard/models",
+				"app-vol/root/standard/models.py"
+			],
+			[
+				"esocial/chois",
+				"app-vol/root/esocial/fixtures/choices.json"
+			],
+			[
+				"esocial/table",
+				"app-vol/root/esocial/tables.py"
+			],
+			[
+				"rh/choices",
+				"app-vol/root/rh/fixtures/choices.json"
+			],
+			[
+				"previdenciasefip",
+				"app-vol/root/rh/gfp/previdencia/sefip.py"
+			],
+			[
+				"s2200.json",
+				"app-vol/root/esocial/data/json/s2200.json"
+			],
+			[
+				"s1010",
+				"app-vol/root/esocial/data/json/s1010.json"
+			],
+			[
+				"esocial/xml",
+				"app-vol/root/esocial/managers/xml.py"
+			],
+			[
+				"rh/ap",
+				"app-vol/root/rh/apps.py"
+			],
+			[
+				"extractors/s1070",
+				"app-vol/root/esocial/managers/extractors/s1070.py"
+			],
+			[
+				"s1070",
+				"app-vol/root/esocial/managers/extractors/s1070.py"
+			],
+			[
+				"s100",
+				"app-vol/root/esocial/models_register/S1000.py"
+			],
+			[
+				"extractors/s100",
+				"app-vol/root/esocial/managers/extractors/s1000.py"
+			],
+			[
+				"managersbuid",
+				"app-vol/root/esocial/managers/builder.py"
+			],
+			[
+				"tester",
+				"app-vol/root/tester.py.new"
+			],
+			[
+				"busy",
+				"images/athenas/busybox.py"
+			],
+			[
+				"dockerfile",
+				"images/athenas/Dockerfile"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/developer/containers/athenas/app-vol/etc/athenasstable.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 400.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 920.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 124.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
