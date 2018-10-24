@@ -520,18 +520,66 @@
 	"buffers":
 	[
 		{
-			"file": "/home/gustavodettenborn/developer/node/apitest/package.json",
+			"file": "/home/gustavodettenborn/developer/node/apitest/app.js",
 			"settings":
 			{
-				"buffer_size": 203,
+				"buffer_size": 212,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/gustavodettenborn/developer/node/apitest/.babelrc",
+			"file": "/home/gustavodettenborn/developer/node/apitest/test/integration/app.js",
 			"settings":
 			{
-				"buffer_size": 29,
+				"buffer_size": 483,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "describe('Routes Books', () => {"
+			}
+		},
+		{
+			"file": "/home/gustavodettenborn/developer/node/apitest/index.js",
+			"settings":
+			{
+				"buffer_size": 103,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gustavodettenborn/developer/node/apitest/package.json",
+			"settings":
+			{
+				"buffer_size": 732,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gustavodettenborn/developer/node/apitest/test/integration/helpers.js",
+			"settings":
+			{
+				"buffer_size": 169,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/gustavodettenborn/developer/node/apitest/install.sh",
+			"settings":
+			{
+				"buffer_size": 128,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "npm install babel-cli babel-preset-es2015 --save"
+			}
+		},
+		{
+			"file": "/home/gustavodettenborn/developer/node/apitest/test/integration/mocha.opts",
+			"settings":
+			{
+				"buffer_size": 100,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -544,10 +592,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 400.0,
-		"last_filter": "insta",
+		"height": 379.0,
+		"last_filter": "terminal",
 		"selected_items":
 		[
+			[
+				"terminal",
+				"Terminal View: Open Bash Terminal"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remve ",
+				"Package Control: Remove Package"
+			],
 			[
 				"insta",
 				"Package Control: Install Package"
@@ -562,10 +622,6 @@
 			],
 			[
 				"install ",
-				"Package Control: Install Package"
-			],
-			[
-				"instal",
 				"Package Control: Install Package"
 			],
 			[
@@ -712,10 +768,19 @@
 	},
 	"expanded_folders":
 	[
-		"/home/gustavodettenborn/developer/node/apitest"
+		"/home/gustavodettenborn/developer/node/apitest",
+		"/home/gustavodettenborn/developer/node/apitest/test",
+		"/home/gustavodettenborn/developer/node/apitest/test/integration"
 	],
 	"file_history":
 	[
+		"/home/gustavodettenborn/developer/node/apitest/package.json",
+		"/home/gustavodettenborn/developer/node/apitest/package.json.bk",
+		"/home/gustavodettenborn/developer/node/apitest/.babelrc",
+		"/home/gustavodettenborn/developer/node/apitest/app.js",
+		"/home/gustavodettenborn/developer/node/apitest/mocha.opts",
+		"/home/gustavodettenborn/.config/sublime-text-3/Packages/Terminal/Terminal.sublime-settings",
+		"/home/gustavodettenborn/.config/sublime-text-3/Packages/User/Terminal.sublime-settings",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/file_support.py",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/managers/extractors/actions.py",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/tests/tests_actions.py",
@@ -734,7 +799,6 @@
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/static/js/toolkit/application.js",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/models.py",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/app/.env",
-		"/home/gustavodettenborn/developer/node/apitest/package.json",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S1000.py",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0055_datamigration_substitution_20171201_1646.py",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/migrations/0054_auto_20171201_1427.py",
@@ -837,17 +901,11 @@
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S3000.py",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S5001.py",
 		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S5002.py",
-		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S5011.py",
-		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S5012.py",
-		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/rh/afastamento/models.py",
-		"/home/gustavodettenborn/developer/containers/athenas2/compose_portainer.yml",
-		"/home/gustavodettenborn/developer/containers/athenas/images/athenas/busybox.py",
-		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/migrations/0003_auto_20180906_1445.py",
-		"/home/gustavodettenborn/developer/containers/athenas2/compose.yml"
+		"/home/gustavodettenborn/developer/containers/athenas2/app-vol/root/esocial/models_register/S5011.py"
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 28.0
 	},
 	"find_in_files":
 	{
@@ -989,6 +1047,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"express",
+			"nome",
+			"test/test/",
+			"/test-integration",
+			"test-integration",
+			"integraion",
+			"supertest",
+			".\n",
 			"codcateg",
 			"profile",
 			".events",
@@ -1108,15 +1174,7 @@
 			"[ ]  ",
 			"[X]  ",
 			"educational_institution_id",
-			"./manage.py",
-			"[ ]  ",
-			"athenas_esocial_development_1",
-			"event_ptr",
-			"event_ptr_id",
-			"ID1017860780000002018091313523539424",
-			"identifier",
-			"event_ptr",
-			"Id"
+			"./manage.py"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -1262,64 +1320,32 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/gustavodettenborn/developer/node/apitest/package.json",
+					"file": "/home/gustavodettenborn/developer/node/apitest/app.js",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 203,
+						"buffer_size": 212,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								203,
-								203
+								212,
+								212
 							]
 						],
 						"settings":
 						{
-							"SL.87.region_keys":
+							"SL.15.region_keys":
 							[
 							],
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/home/gustavodettenborn/developer/node/apitest/.babelrc",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 29,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								29,
-								29
-							]
-						],
-						"settings":
-						{
-							"SL.90.region_keys":
-							[
-								"sublime_linter.protected_regions"
-							],
-							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (Babel).sublime-syntax"
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1327,13 +1353,209 @@
 					},
 					"stack_index": 0,
 					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/gustavodettenborn/developer/node/apitest/test/integration/app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								408,
+								408
+							]
+						],
+						"settings":
+						{
+							"SL.64.region_keys":
+							[
+							],
+							"auto_name": "describe('Routes Books', () => {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/gustavodettenborn/developer/node/apitest/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"SL.30.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/gustavodettenborn/developer/node/apitest/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								246
+							]
+						],
+						"settings":
+						{
+							"SL.17.region_keys":
+							[
+							],
+							"SL.52.region_keys":
+							[
+							],
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/gustavodettenborn/developer/node/apitest/test/integration/helpers.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 169,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								89,
+								89
+							]
+						],
+						"settings":
+						{
+							"SL.36.region_keys":
+							[
+							],
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/gustavodettenborn/developer/node/apitest/install.sh",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 128,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								68,
+								75
+							]
+						],
+						"settings":
+						{
+							"SL.19.region_keys":
+							[
+							],
+							"SL.38.region_keys":
+							[
+							],
+							"auto_name": "npm install babel-cli babel-preset-es2015 --save",
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/gustavodettenborn/developer/node/apitest/test/integration/mocha.opts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								55,
+								55
+							]
+						],
+						"settings":
+						{
+							"SL.37.region_keys":
+							[
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
 				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 28.0
 	},
 	"input":
 	{
@@ -1382,7 +1604,7 @@
 	"project": "apitest.sublime-project",
 	"replace":
 	{
-		"height": 54.0
+		"height": 52.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -1936,7 +2158,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 124.0,
+	"side_bar_width": 260.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
